@@ -1,4 +1,4 @@
-# MyPackage
+# YWP Package
 
 A big Package has a lot of things From Your Wanted Products (YWP)
 
@@ -12,19 +12,20 @@ pip install YWP
 
 ```python
 from YWP import play_audio
-from ywp import stop_recording
-from ywp import delete_all_files
-from ywp import create_file
-from ywp import open_file
-from ywp import open_website
-from ywp import shutdown
-from ywp import record_audio
-from ywp import transcribe_audio
-from ywp import text_to_speech
-from ywp import play_sound
+from YWP import stop_recording
+from YWP import delete_all_files
+from YWP import create_file
+from YWP import open_file
+from YWP import open_website
+from YWP import shutdown
+from YWP import record_audio
+from YWP import transcribe_audio
+from YWP import text_to_speech
+from YWP import play_sound
 
 
 ### `LICENSE`
+
 Choose a license, for YWP, the MIT license:
 ```text
 MIT License
